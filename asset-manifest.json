@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ws101-bodino-navbar/static/css/main.801aa25d.css",
-    "main.js": "/ws101-bodino-navbar/static/js/main.3a2dae95.js",
+    "main.js": "/ws101-bodino-navbar/static/js/main.be71f5bf.js",
     "index.html": "/ws101-bodino-navbar/index.html",
     "main.801aa25d.css.map": "/ws101-bodino-navbar/static/css/main.801aa25d.css.map",
-    "main.3a2dae95.js.map": "/ws101-bodino-navbar/static/js/main.3a2dae95.js.map"
+    "main.be71f5bf.js.map": "/ws101-bodino-navbar/static/js/main.be71f5bf.js.map"
   },
   "entrypoints": [
     "static/css/main.801aa25d.css",
-    "static/js/main.3a2dae95.js"
+    "static/js/main.be71f5bf.js"
   ]
 }
