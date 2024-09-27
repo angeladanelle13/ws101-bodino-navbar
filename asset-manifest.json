@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-bodino-navbar/static/css/main.cc044339.css",
+    "main.js": "/ws101-bodino-navbar/static/js/main.d05a4592.js",
+    "index.html": "/ws101-bodino-navbar/index.html",
+    "main.cc044339.css.map": "/ws101-bodino-navbar/static/css/main.cc044339.css.map",
+    "main.d05a4592.js.map": "/ws101-bodino-navbar/static/js/main.d05a4592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc044339.css",
+    "static/js/main.d05a4592.js"
+  ]
+}
