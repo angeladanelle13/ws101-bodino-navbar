@@ -1,0 +1,28 @@
+.underline {
+  visibility: hidden; 
+  position: absolute;
+  height: 3px;
+  margin-top: -8px;
+  background-color: var(--primary-color);
+  transition: width 0.2s, background-color 0.5s, transform 0.5s;
+  z-index: 1;
+  left: 0;
+}
+
+.underline.visible {
+  visibility: visible;
+}
+
+#theme-button {
+  font-size: 24px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.dark-theme #theme-button {
+  color: var(--primary-color);
+}
+
+#theme-button {
+  color: #333;
+}

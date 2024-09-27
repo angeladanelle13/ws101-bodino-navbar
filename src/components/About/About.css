@@ -1,0 +1,12 @@
+/* ========== About Section ========= */
+#about {
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.section__text__p1 {
+  font-size: 50px;
+  font-weight: 400;
+  padding-top: 10rem;
+  padding-bottom: 20rem;
+}
